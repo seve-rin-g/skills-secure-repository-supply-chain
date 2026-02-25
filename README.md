@@ -1,3 +1,5 @@
+Review: this was a walkthrough of setting up dependabot alerts and optionally automating them. Fairly quick and straightforward -- have already implemented this for my currently active projects.
+
 <div align="center">
 
 # 🎉 Congratulations seve-rin-g! 🎉
